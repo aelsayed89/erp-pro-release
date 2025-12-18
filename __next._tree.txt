@@ -1,3 +1,3 @@
-:HL["/erp-pro-release/_next/static/chunks/66f8d71349f7366b.css","style"]
-:HL["/erp-pro-release/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/erp-pro-release/next/static/chunks/66f8d71349f7366b.css","style"]
+:HL["/erp-pro-release/next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 0:{"buildId":"50ZwDtCliLjZXfi9B0hCh","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
